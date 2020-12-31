@@ -1,18 +1,18 @@
 ## HTML Links
 
 ```html
-<!-- with anchor thag -->
+<!--1. with anchor tag -->
 <a href="https://www.abhishekdipu.tech/" target="_blank" title="abhi's website"
   >Abhishek
 </a>
 
-<!-- Link to an Email Address -->
+<!--2. Link to an Email Address -->
 <a href="mailto:abhishekdipu20@gmail.com">Send email</a>
 
-<!-- Button as a Link -->
+<!--3. Button as a Link -->
 <button onclick="document.location='default.asp'">HTML Tutorial</button>
 
-<!-- Bookmarks : 2 steps:-->
+<!--4. Bookmark link : 2 steps:-->
 <h2 id="C4">Chapter 4</h2>
 <a href="#C4">Jump to Chapter 4</a>
 
